@@ -5,5 +5,5 @@ This was my first game project from school. The game game was inspired by a popu
 
 ### How to play
 
-Download this repo and execute the The_Pilgrimage_Beta.exe 
+Download all files and execute the The_Pilgrimage_Beta.exe 
 
